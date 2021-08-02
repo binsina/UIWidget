@@ -1,0 +1,17 @@
+[
+    {
+        "payerID":1,
+        "payerName": "Aetna",
+        "displayValue": "Aetna"
+    },
+    {
+        "payerID":2,
+        "payerName": "Humana",
+        "displayValue": "Humana"
+    },
+    {
+        "payerID":3,
+        "payerName": "UHG",
+        "displayValue": "UHG"
+    }
+]
